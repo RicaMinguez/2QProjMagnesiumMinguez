@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting</title>
+		
+		<meta charset="UTF-8"/>
+		<meta name="author" content="Rica Elaine B. Minguez"/>
+		<meta name="keywords" content="Formatting Text Links"/>			
+		<meta name="revised" content="12/13/2021"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="refresh" content="1;url=htdocs/index.html" />
+	</head>
+	<body>
+		<h1> Redirecting to your own index.html inside htdocs/ </h2>
+	</body>	
+</html>
