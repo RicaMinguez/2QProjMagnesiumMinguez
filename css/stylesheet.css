@@ -54,6 +54,7 @@ img.bg {
 }
 
 #footer {
+    margin-top:80%;
     bottom:0;
     position:absolute;
     height:50px;
