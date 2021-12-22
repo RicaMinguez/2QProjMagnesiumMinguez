@@ -54,7 +54,7 @@ img.bg {
 }
 
 #footer {
-    margin-top:80%;
+    margin-top:90%;
     bottom:0;
     position:absolute;
     width:100%;
@@ -102,5 +102,5 @@ img#picture2 {
     float: left;
     position: absolute;
     left:5px;
-    top:400px;
+    top:350px;
 }
