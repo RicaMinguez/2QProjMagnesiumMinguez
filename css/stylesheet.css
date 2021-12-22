@@ -4,6 +4,8 @@ body {
 
 img.bg {
     position:fixed;
+    height:vh;
+    width:vw;
     top:0px;
     left:0px;
     z-index:-1;
