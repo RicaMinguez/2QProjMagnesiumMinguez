@@ -1,14 +1,12 @@
 body {
     font-family:'Lucida Grande', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-repeat: no-repeat;
 }
 
-body.index {
-    background-image: url("../images/background.png");
-}
-
-body.contentpage {
-    background-image: url("../images/background2.png");
+img.bg {
+    position:fixed;
+    top:0px;
+    left:0px;
+    z-index:-1;
 }
 
 div#home-page-header {
