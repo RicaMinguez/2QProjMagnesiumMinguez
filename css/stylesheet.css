@@ -79,10 +79,12 @@ img#picture2 {
 }
 
 #return {
+    box-sixing:border-box;
     height: 50px;
     width: 50px;
     padding: 10px;
     float: left;
+    border:2px black solid;
     background-color: rgb(230, 159, 6);
     margin-top: 12.5%;
 }
