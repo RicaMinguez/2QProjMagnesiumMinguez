@@ -77,6 +77,8 @@ img#picture2 {
 }
 
 #return {
+    position:absolute;
+    top:0;
     box-sixing:border-box;
     height: 30px;
     width: 30px;
