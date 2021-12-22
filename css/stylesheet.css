@@ -11,7 +11,7 @@ img.bg {
     z-index:-1;
 }
 
-header {
+#header {
     position:sticky;
     bottom:0;
     width:vw;
@@ -54,7 +54,7 @@ header {
     background-color: rgb(224, 221, 5);
 }
 
-footer {
+#footer {
     position:sticky;
     bottom:0;
     width:vw;
