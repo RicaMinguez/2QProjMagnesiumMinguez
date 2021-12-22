@@ -78,12 +78,12 @@ img#picture2 {
 
 #return {
     box-sixing:border-box;
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
     padding: 10px;
     float: left;
     border:2px black solid;
-    background-color: rgb(245, 159, 6);
+    background-color: rgb(245, 140, 6);
     margin-top: 12.5%;
     z-index:5;
 }
