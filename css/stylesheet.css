@@ -78,8 +78,8 @@ img#picture2 {
 
 #return {
     box-sixing:border-box;
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     padding: 10px;
     float: left;
     border:2px black solid;
