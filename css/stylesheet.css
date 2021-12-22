@@ -88,3 +88,7 @@ img#picture2 {
     margin-top: 12.5%;
     z-index:5;
 }
+
+#z1 {
+    z-index:1;
+}
