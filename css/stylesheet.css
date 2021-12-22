@@ -12,8 +12,7 @@ img.bg {
 }
 
 #header {
-    position:sticky;
-    bottom:0;
+    top:0;
     width:vw;
     padding: 10px;
     font-size: x-large;
@@ -55,7 +54,6 @@ img.bg {
 }
 
 #footer {
-    position:sticky;
     bottom:0;
     width:vw;
     text-align: right;
