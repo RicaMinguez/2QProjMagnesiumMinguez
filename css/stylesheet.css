@@ -98,3 +98,8 @@ img#picture2 {
     z-index:2;
 }
 
+#vid {
+    float: left;
+    position: absolute;
+    left:5px;
+}
