@@ -53,6 +53,10 @@ img.bg {
     background-color: rgb(224, 221, 5);
 }
 
+#nav-contentpage {
+    float: right;
+}
+
 #footer {
     margin-top:90%;
     bottom:0;
