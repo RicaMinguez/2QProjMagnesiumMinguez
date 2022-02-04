@@ -16,7 +16,7 @@ img.bg {
     width:vw;
     padding: 10px;
     font-size: x-large;
-    text-align: center;
+    text-align: left;
     background-color: rgb(245, 221, 6);
 }
 
@@ -106,5 +106,5 @@ img#picture2 {
     float: left;
     position: absolute;
     left:5px;
-    top:350px;
+    margin-top:10px;
 }
