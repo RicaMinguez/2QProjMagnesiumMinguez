@@ -2,6 +2,10 @@ body {
     font-family:'Lucida Grande', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+a {
+    hover:transform:scale(2,2);
+}
+
 img.bg {
     position:fixed;
     height:vh;
@@ -18,6 +22,7 @@ img.bg {
     font-size: x-large;
     text-align: left;
     background-color: rgb(245, 221, 6);
+    position:sticky;
 }
 
 #content {
@@ -54,9 +59,14 @@ img.bg {
 }
 
 #nav-contentpage {
-    position:fixed;
-    float: right;
+    position:absolute;
+    float:right;
     right:10px;
+}
+
+#nav-icon-contentpage {
+    height:50px;
+    width:50px;
 }
 
 #footer {
