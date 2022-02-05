@@ -54,7 +54,9 @@ img.bg {
 }
 
 #nav-contentpage {
+    position:fixed;
     float: right;
+    right:10px;
 }
 
 #footer {
