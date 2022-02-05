@@ -3,7 +3,7 @@ body {
 }
 
 a {
-    hover:transform:scale(2,2);
+    hover:scale(2,2);
 }
 
 img.bg {
