@@ -2,8 +2,8 @@ body {
     font-family:'Lucida Grande', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-a {
-    hover:scale(2,2);
+a:hover {
+    transform:scale(2,2);
 }
 
 img.bg {
